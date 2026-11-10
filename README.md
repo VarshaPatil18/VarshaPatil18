@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Varsha
 
-<!--
-**VarshaPatil18/VarshaPatil18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer intern at Olynk AI and B.Tech CSE student at BVRIT, Hyderabad (2024–2028). I build full-stack products with AI at the core.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[confiqosystem](https://github.com/VarshaPatil18/confiqosystem)**: B2B cross-border escrow and settlement platform with AI-driven risk analysis and confidence scoring. React, FastAPI, Supabase. [Live](https://confiqosystem.vercel.app)
+- **[pricesense-ai](https://github.com/VarshaPatil18/pricesense-ai)**: AI-powered smart purchasing assistant, built for Microsoft Imagine Cup 2026.
+- **[Evently](https://github.com/VarshaPatil18/Evently)**: AI-assisted event planning platform with budget optimization and food-waste estimation. React, TypeScript. [Live](https://agent-6a2153a1a3d8513--preeminent-tarsier-98688e.netlify.app/)
+- **[zerodha-clone](https://github.com/VarshaPatil18/zerodha-clone)**: Full-stack trading platform with watchlists, portfolio tracking, orders and JWT auth. MERN. [Live](https://main.d1z5dhflw3h9v2.amplifyapp.com/)
+
+## Stack
+
+JavaScript · TypeScript · Python · React · Node.js · Express · MongoDB · FastAPI
